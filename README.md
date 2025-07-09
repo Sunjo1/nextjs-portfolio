@@ -1,52 +1,53 @@
-🧪 Next.js Portfolio Practice
-This is a practice project built with Next.js to sharpen my frontend development skills. The content and images are placeholders and do not represent personal or professional information.
+# 🧪 Next.js Portfolio Practice
 
-🚀 Features Practiced
-Next.js App Routing: Implemented efficient navigation within the application.
+This is a practice project built with [Next.js](https://nextjs.org/) to sharpen my frontend development skills. The content and images are placeholders and do not represent personal or professional information.
 
-Responsive Layouts with Tailwind CSS: Designed a user interface that adapts seamlessly to various screen sizes.
+## 🚀 Features Practiced
 
-Dynamic Pages and Components: Created reusable and data-driven UI elements.
+- **Next.js App Routing**: Implemented efficient navigation within the application.
+- **Responsive Layouts with Tailwind CSS**: Designed a user interface that adapts seamlessly to various screen sizes.
+- **Dynamic Pages and Components**: Created reusable and data-driven UI elements.
+- **Static and Server-Side Rendering**: Explored different rendering strategies for optimal performance.
+- **Page SEO and Metadata**: Enhanced search engine visibility and control over page information.
+- **Deployment to Vercel**: Gained experience in deploying Next.js applications to a production environment.
 
-Static and Server-Side Rendering: Explored different rendering strategies for optimal performance.
+## 💻 Getting Started
 
-Page SEO and Metadata: Enhanced search engine visibility and control over page information.
-
-Deployment to Vercel: Gained experience in deploying Next.js applications to a production environment.
-
-💻 Getting Started
 To get a local copy up and running, follow these simple steps:
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sunjo1/william-portfolio.git
 
-Bash
+ 2. Navigate into the project directory:
 
-git clone https://github.com/Sunjo1/william-portfolio.git
-Navigate into the project directory:
-
-Bash
-
+   ```bash 
 cd william-portfolio
-Install dependencies:
+```
+3. Install dependencies:
 
-Bash
-
+```bash
 npm install
-Run the development server:
+```
+4. Run the development server:
 
-Bash
-
+```bash
 npm run dev
-Once the server is running, visit http://localhost:3000 in your browser to see the portfolio live.
+```
+5. Once the server is running, visit
+```bash 
+http://localhost:3000
+```
+in your browser to see the portfolio live.
 
-📦 Tech Stack
-Next.js: The React framework for production.
+## 📦 Tech Stack
+- **Next.js** - The React framework for production
 
-React: A JavaScript library for building user interfaces.
+- **React** - A JavaScript library for building user interfaces
 
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- **Tailwind CSS** - A utility-first CSS framework for rapid UI development
 
-Vercel: For seamless deployment and hosting.
+- **Vercel** - For seamless deployment and hosting
 
-🔍 Notes
+## 🔍 Notes
 This project is intended for educational and personal learning purposes only. The content used within this project is not original.
