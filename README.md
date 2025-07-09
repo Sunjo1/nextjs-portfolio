@@ -1,36 +1,52 @@
-# 🧪 Next.js Portfolio Practice
+🧪 Next.js Portfolio Practice
+This is a practice project built with Next.js to sharpen my frontend development skills. The content and images are placeholders and do not represent personal or professional information.
 
-This is a practice project built with [Next.js](https://nextjs.org) to sharpen my frontend development skills. The content and images are placeholders and do not represent personal or professional information.
+🚀 Features Practiced
+Next.js App Routing: Implemented efficient navigation within the application.
 
-## 🚀 Features Practiced
+Responsive Layouts with Tailwind CSS: Designed a user interface that adapts seamlessly to various screen sizes.
 
-- ✅ Next.js App Routing
-- ✅ Responsive Layouts with Tailwind CSS
-- ✅ Dynamic Pages and Components
-- ✅ Static and Server-Side Rendering
-- ✅ Page SEO and Metadata
-- ✅ Deployment to Vercel
+Dynamic Pages and Components: Created reusable and data-driven UI elements.
 
-## 💻 Getting Started
+Static and Server-Side Rendering: Explored different rendering strategies for optimal performance.
 
-Clone the repo and install dependencies:
+Page SEO and Metadata: Enhanced search engine visibility and control over page information.
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+Deployment to Vercel: Gained experience in deploying Next.js applications to a production environment.
+
+💻 Getting Started
+To get a local copy up and running, follow these simple steps:
+
+Clone the repository:
+
+Bash
+
+git clone https://github.com/Sunjo1/william-portfolio.git
+Navigate into the project directory:
+
+Bash
+
+cd william-portfolio
+Install dependencies:
+
+Bash
+
 npm install
+Run the development server:
+
+Bash
+
 npm run dev
-Visit http://localhost:3000 in your browser to see it live.
+Once the server is running, visit http://localhost:3000 in your browser to see the portfolio live.
 
 📦 Tech Stack
-Next.js
+Next.js: The React framework for production.
 
-React
+React: A JavaScript library for building user interfaces.
 
-Tailwind CSS (or your choice)
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
-Deployed with Vercel
+Vercel: For seamless deployment and hosting.
 
 🔍 Notes
-This project is for educational and personal learning purposes only. The content used in this project is not original.
-
+This project is intended for educational and personal learning purposes only. The content used within this project is not original.
