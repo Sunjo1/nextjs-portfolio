@@ -1,5 +1,8 @@
-@import "tailwindcss";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
-* {
-  font-family: Outfit;
+/* Optional font setup */
+body {
+  font-family: var(--font-outfit);
 }
