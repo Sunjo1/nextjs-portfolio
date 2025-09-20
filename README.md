@@ -1,6 +1,7 @@
 # 🧪 Next.js Portfolio Practice
 
 This is a practice project built with [Next.js](https://nextjs.org/) to sharpen my frontend development skills. The content and images are placeholders and do not represent personal or professional information.
+[Live demo](https://nextjs-portfolio-lgu6i82nt-ninsunjo-gmailcoms-projects.vercel.app)
 
 ## 🚀 Features Practiced
 
